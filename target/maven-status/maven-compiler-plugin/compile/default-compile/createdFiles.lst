@@ -1,0 +1,8 @@
+com\qagroup\tools\Mobile.class
+com\qagroup\app\ExpandableListsScreen.class
+com\qagroup\app\AppScreen.class
+com\qagroup\app\ViewsScreen.class
+com\qagroup\app\AlertDialogsScreen.class
+com\qagroup\app\ApiDemos.class
+com\qagroup\app\MainScreen.class
+com\qagroup\tools\Reporter.class

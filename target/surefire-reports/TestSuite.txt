@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 38.06 s <<< FAILURE! - in TestSuite
+navigateToExpandableListsTab(com.qagroup.apidemos.test.NavigationToViewsTabTest)  Time elapsed: 1.551 s  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qagroup.apidemos.test.NavigationToViewsTabTest.navigateToExpandableListsTab(NavigationToViewsTabTest.java:29)
+
+setup(com.qagroup.apidemos.test.TextEntryDialogTest)  Time elapsed: 2.796 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+A new session could not be created. Details: Problem getting session data for driver type AndroidDriver; does it implement 'get driverData'? (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ONagirna', ip: '192.168.152.158', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: AndroidDriver
+	at com.qagroup.apidemos.test.TextEntryDialogTest.setup(TextEntryDialogTest.java:22)
+

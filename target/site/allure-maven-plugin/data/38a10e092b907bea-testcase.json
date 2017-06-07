@@ -1,0 +1,110 @@
+{
+  "uid" : "38a10e092b907bea",
+  "name" : "navigateToViewsTab",
+  "title" : "Navigate to views tab",
+  "time" : {
+    "start" : 1496241717194,
+    "stop" : 1496241721191,
+    "duration" : 3997
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "ecb3f9e7292e675a",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ {
+    "name" : "close",
+    "title" : "Close App",
+    "time" : {
+      "start" : 1496241708047,
+      "stop" : 1496241710128,
+      "duration" : 2081
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "openMainScreen",
+    "title" : "Open ApiDemos main screen",
+    "time" : {
+      "start" : 1496241710133,
+      "stop" : 1496241717193,
+      "duration" : 7060
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "clickOnViewsTab",
+    "title" : "Select Views tab",
+    "time" : {
+      "start" : 1496241717195,
+      "stop" : 1496241717769,
+      "duration" : 574
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "7df15f4c-466b-4a5b-9683-215bc95ee7a6-attachment.png",
+    "type" : "image/png",
+    "size" : 77247,
+    "uid" : "9be3b69e6e2497f7"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "navigateToViewsTab"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "88876@ONagirna.main(1)"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qagroup.apidemos.test.NavigationToViewsTabTest"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "ONagirna"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

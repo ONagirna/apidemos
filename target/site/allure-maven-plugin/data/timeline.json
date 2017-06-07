@@ -1,0 +1,75 @@
+{
+  "hosts" : [ {
+    "title" : "ONagirna",
+    "threads" : [ {
+      "title" : "88876@ONagirna.main(1)",
+      "testCases" : [ {
+        "uid" : "630024e0232fa5cc",
+        "name" : "test",
+        "title" : "Test",
+        "time" : {
+          "start" : 1496241689688,
+          "stop" : 1496241708041,
+          "duration" : 18353
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "38a10e092b907bea",
+        "name" : "navigateToViewsTab",
+        "title" : "Navigate to views tab",
+        "time" : {
+          "start" : 1496241717194,
+          "stop" : 1496241721191,
+          "duration" : 3997
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      }, {
+        "uid" : "631216baeed15877",
+        "name" : "navigateToExpandableListsTab",
+        "title" : "Navigate to expandable lists tab",
+        "time" : {
+          "start" : 1496241721192,
+          "stop" : 1496241722734,
+          "duration" : 1542
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "8f137d95d3ae084d",
+        "name" : "navigateToSimpleAdapterTab",
+        "title" : "Navigate to simple adapter tab",
+        "time" : {
+          "start" : 1496241723930,
+          "stop" : 1496241723931,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      }, {
+        "uid" : "c84919e5ef0d072d",
+        "name" : "setup",
+        "title" : "Setup",
+        "time" : {
+          "start" : 1496241723989,
+          "stop" : 1496241723990,
+          "duration" : 1
+        },
+        "severity" : "NORMAL",
+        "status" : "BROKEN"
+      }, {
+        "uid" : "bd8f1c7b0fe0c71",
+        "name" : "fillOutFieldsOnTextEntryDialog",
+        "title" : "Fill out fields on text entry dialog",
+        "time" : {
+          "start" : 1496241723991,
+          "stop" : 1496241725194,
+          "duration" : 1203
+        },
+        "severity" : "NORMAL",
+        "status" : "CANCELED"
+      } ]
+    } ]
+  } ]
+}

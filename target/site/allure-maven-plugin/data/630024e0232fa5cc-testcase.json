@@ -1,0 +1,140 @@
+{
+  "uid" : "630024e0232fa5cc",
+  "name" : "test",
+  "title" : "Test",
+  "time" : {
+    "start" : 1496241689688,
+    "stop" : 1496241708041,
+    "duration" : 18353
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 5
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "suite" : {
+    "uid" : "ecb3f9e7292e675a",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ {
+    "name" : "openMainScreen",
+    "title" : "Open ApiDemos main screen",
+    "time" : {
+      "start" : 1496241689778,
+      "stop" : 1496241701615,
+      "duration" : 11837
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "selectAppTab",
+    "title" : "Select App tab",
+    "time" : {
+      "start" : 1496241701616,
+      "stop" : 1496241702123,
+      "duration" : 507
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "selectAlertDialogsTab",
+    "title" : "Select Alert Dialogs tab",
+    "time" : {
+      "start" : 1496241702124,
+      "stop" : 1496241703341,
+      "duration" : 1217
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "selectTextEntryDialog",
+    "title" : "Select Text Entry Dialog tab",
+    "time" : {
+      "start" : 1496241703343,
+      "stop" : 1496241704579,
+      "duration" : 1236
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "isDialogDisplayed",
+    "title" : "Check that Text Entry dialog is displayed",
+    "time" : {
+      "start" : 1496241704580,
+      "stop" : 1496241705861,
+      "duration" : 1281
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "42ebddef-dcea-4112-9d71-7d95273cbb36-attachment.png",
+    "type" : "image/png",
+    "size" : 146741,
+    "uid" : "116fbafbf4c33f2b"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qagroup.apidemos.test.ApiDemosNavigationTest"
+  }, {
+    "name" : "thread",
+    "value" : "88876@ONagirna.main(1)"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "ONagirna"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

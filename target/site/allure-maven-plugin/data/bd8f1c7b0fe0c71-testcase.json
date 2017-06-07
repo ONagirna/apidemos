@@ -1,0 +1,68 @@
+{
+  "uid" : "bd8f1c7b0fe0c71",
+  "name" : "fillOutFieldsOnTextEntryDialog",
+  "title" : "Fill out fields on text entry dialog",
+  "time" : {
+    "start" : 1496241723991,
+    "stop" : 1496241725194,
+    "duration" : 1203
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 0
+  },
+  "failure" : {
+    "message" : ": Skipped due to dependency on other skipped or failed test methods",
+    "stackTrace" : "ru.yandex.qatools.allure.testng.AllureTestListener$1: Skipped due to dependency on other skipped or failed test methods\n\tat ru.yandex.qatools.allure.testng.AllureTestListener.fireTestCaseCancel(AllureTestListener.java:424)\n\tat ru.yandex.qatools.allure.testng.AllureTestListener.onTestSkipped(AllureTestListener.java:185)\n\tat org.testng.internal.Invoker.runTestListeners(Invoker.java:1647)\n\tat org.testng.internal.Invoker.runTestListeners(Invoker.java:1639)\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:703)\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:811)\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1129)\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\n\tat org.testng.TestRunner.privateRun(TestRunner.java:746)\n\tat org.testng.TestRunner.run(TestRunner.java:600)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:366)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:268)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1264)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1189)\n\tat org.testng.TestNG.runSuites(TestNG.java:1104)\n\tat org.testng.TestNG.run(TestNG.java:1076)\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:135)\n\tat org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:193)\n\tat org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:94)\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:146)\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)\n"
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "CANCELED",
+  "suite" : {
+    "uid" : "ecb3f9e7292e675a",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test"
+  },
+  "steps" : [ ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "5c673bcd-7da5-4da1-bb18-d213edfc20e6-attachment.png",
+    "type" : "image/png",
+    "size" : 96813,
+    "uid" : "b9d69bd877a97dc7"
+  } ],
+  "issues" : [ ],
+  "testIds" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "Surefire suite : Surefire test"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "88876@ONagirna.main(1)"
+  }, {
+    "name" : "testSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "testClass",
+    "value" : "com.qagroup.apidemos.test.TextEntryDialogTest"
+  }, {
+    "name" : "host",
+    "value" : "ONagirna"
+  }, {
+    "name" : "testMethod",
+    "value" : "fillOutFieldsOnTextEntryDialog"
+  }, {
+    "name" : "testGroup",
+    "value" : "Surefire test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Surefire suite : Surefire test"
+  } ],
+  "parameters" : [ ]
+}

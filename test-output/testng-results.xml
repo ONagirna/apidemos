@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39286" started-at="2017-05-31T16:29:57Z" finished-at="2017-05-31T16:30:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39286" started-at="2017-05-31T16:29:57Z" finished-at="2017-05-31T16:30:36Z">
+      <class name="com.qagroup.apidemos.test.TextEntryDialogTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qagroup.apidemos.test.TextEntryDialogTest@10643593]" name="setup" is-config="true" duration-ms="18161" started-at="2017-05-31T19:29:57Z" finished-at="2017-05-31T19:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fillOutFieldsOnTextEntryDialog()[pri:0, instance:com.qagroup.apidemos.test.TextEntryDialogTest@10643593]" name="fillOutFieldsOnTextEntryDialog" duration-ms="18028" started-at="2017-05-31T19:30:15Z" finished-at="2017-05-31T19:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillOutFieldsOnTextEntryDialog -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qagroup.apidemos.test.TextEntryDialogTest@10643593]" name="tearDown" is-config="true" duration-ms="3007" started-at="2017-05-31T19:30:33Z" finished-at="2017-05-31T19:30:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qagroup.apidemos.test.TextEntryDialogTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

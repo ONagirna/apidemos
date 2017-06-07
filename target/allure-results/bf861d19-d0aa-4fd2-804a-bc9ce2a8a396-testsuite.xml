@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1496248197663" stop="1496248236999" version="1.5.2" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1496248215934" stop="1496248233911" status="passed">
+            <name>fillOutFieldsOnTextEntryDialog</name>
+            <steps>
+                <step start="1496248197806" stop="1496248212530" status="passed">
+                    <name>openMainScreen</name>
+                    <title>Open ApiDemos main screen</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248212532" stop="1496248215834" status="passed">
+                    <name>navigateToAlertDialogs</name>
+                    <title>Navigate to the Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1496248212533" stop="1496248213172" status="passed">
+                            <name>selectAppTab</name>
+                            <title>Select App tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1496248213172" stop="1496248214689" status="passed">
+                            <name>selectAlertDialogsTab</name>
+                            <title>Select Alert Dialogs tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1496248214690" stop="1496248215833" status="passed">
+                            <name>selectTextEntryDialog</name>
+                            <title>Select Text Entry Dialog tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start="1496248215940" stop="1496248225621" status="passed">
+                    <name>enterName</name>
+                    <title>Enter name on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248225622" stop="1496248232452" status="passed">
+                    <name>enterPassword</name>
+                    <title>Enter password on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248232454" stop="1496248233207" status="passed">
+                    <name>clickOkButton</name>
+                    <title>Click on OK button on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248233208" stop="1496248233888" status="passed">
+                    <name>isAlertDialogsScreenDisplayed</name>
+                    <title>Check that Alert Dialogs screen is displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="com.qagroup.apidemos.test.TextEntryDialogTest"/>
+                <label name="testMethod" value="fillOutFieldsOnTextEntryDialog"/>
+                <label name="host" value="ONagirna"/>
+                <label name="thread" value="64984@ONagirna.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1496248215934" stop="1496248233911" status="passed">
+            <name>fillOutFieldsOnTextEntryDialog</name>
+            <steps>
+                <step start="1496248197806" stop="1496248212530" status="passed">
+                    <name>openMainScreen</name>
+                    <title>Open ApiDemos main screen</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248212532" stop="1496248215834" status="passed">
+                    <name>navigateToAlertDialogs</name>
+                    <title>Navigate to the Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1496248212533" stop="1496248213172" status="passed">
+                            <name>selectAppTab</name>
+                            <title>Select App tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1496248213172" stop="1496248214689" status="passed">
+                            <name>selectAlertDialogsTab</name>
+                            <title>Select Alert Dialogs tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start="1496248214690" stop="1496248215833" status="passed">
+                            <name>selectTextEntryDialog</name>
+                            <title>Select Text Entry Dialog tab</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start="1496248215940" stop="1496248225621" status="passed">
+                    <name>enterName</name>
+                    <title>Enter name on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248225622" stop="1496248232452" status="passed">
+                    <name>enterPassword</name>
+                    <title>Enter password on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248232454" stop="1496248233207" status="passed">
+                    <name>clickOkButton</name>
+                    <title>Click on OK button on Text Entry dialog popup</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1496248233208" stop="1496248233888" status="passed">
+                    <name>isAlertDialogsScreenDisplayed</name>
+                    <title>Check that Alert Dialogs screen is displayed</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default suite"/>
+                <label name="testGroup" value="Default test"/>
+                <label name="testClass" value="com.qagroup.apidemos.test.TextEntryDialogTest"/>
+                <label name="testMethod" value="fillOutFieldsOnTextEntryDialog"/>
+                <label name="host" value="ONagirna"/>
+                <label name="thread" value="64984@ONagirna.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
